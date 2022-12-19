@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ENCAPSULATIONHomeTask\ENCAPSULATIONHomeTask\obj\Debug\net6.0\ENCAPSULATIONHomeTask.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ENCAPSULATIONHomeTask\ENCAPSULATIONHomeTask\obj\Debug\net6.0\ENCAPSULATIONHomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ENCAPSULATIONHomeTask\ENCAPSULATIONHomeTask\obj\Debug\net6.0\ENCAPSULATIONHomeTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ENCAPSULATIONHomeTask\ENCAPSULATIONHomeTask\obj\Debug\net6.0\ENCAPSULATIONHomeTask.AssemblyInfo.cs
+C:\Users\User\source\repos\ENCAPSULATIONHomeTask\ENCAPSULATIONHomeTask\obj\Debug\net6.0\ENCAPSULATIONHomeTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ENCAPSULATIONHomeTask\ENCAPSULATIONHomeTask\bin\Debug\net6.0\ENCAPSULATIONHomeTask.exe
+C:\Users\User\source\repos\ENCAPSULATIONHomeTask\ENCAPSULATIONHomeTask\bin\Debug\net6.0\ENCAPSULATIONHomeTask.deps.json
+C:\Users\User\source\repos\ENCAPSULATIONHomeTask\ENCAPSULATIONHomeTask\bin\Debug\net6.0\ENCAPSULATIONHomeTask.runtimeconfig.json
+C:\Users\User\source\repos\ENCAPSULATIONHomeTask\ENCAPSULATIONHomeTask\bin\Debug\net6.0\ENCAPSULATIONHomeTask.dll
+C:\Users\User\source\repos\ENCAPSULATIONHomeTask\ENCAPSULATIONHomeTask\bin\Debug\net6.0\ENCAPSULATIONHomeTask.pdb
+C:\Users\User\source\repos\ENCAPSULATIONHomeTask\ENCAPSULATIONHomeTask\obj\Debug\net6.0\ENCAPSULATIONHomeTask.dll
+C:\Users\User\source\repos\ENCAPSULATIONHomeTask\ENCAPSULATIONHomeTask\obj\Debug\net6.0\refint\ENCAPSULATIONHomeTask.dll
+C:\Users\User\source\repos\ENCAPSULATIONHomeTask\ENCAPSULATIONHomeTask\obj\Debug\net6.0\ENCAPSULATIONHomeTask.pdb
+C:\Users\User\source\repos\ENCAPSULATIONHomeTask\ENCAPSULATIONHomeTask\obj\Debug\net6.0\ENCAPSULATIONHomeTask.genruntimeconfig.cache
+C:\Users\User\source\repos\ENCAPSULATIONHomeTask\ENCAPSULATIONHomeTask\obj\Debug\net6.0\ref\ENCAPSULATIONHomeTask.dll
